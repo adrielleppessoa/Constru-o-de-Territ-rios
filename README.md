@@ -1,2 +1,2 @@
-# Constru-o-de-Territ-rios
+# Construcao-de-Territorios
 Estrutura de Dados
